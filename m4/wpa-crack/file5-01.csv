@@ -1,0 +1,8 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+E8:CC:18:A8:69:2A, 2021-07-19 03:23:26, 2021-07-19 03:24:56,  2,  65, WPA2, CCMP, PSK, -45,      853,        5,   0.  0.  0.  0,  15, Meidan Millioni, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+60:83:34:1F:93:D5, 2021-07-19 03:24:43, 2021-07-19 03:24:55, -67,       22, E8:CC:18:A8:69:2A,
+30:07:4D:99:DD:9A, 2021-07-19 03:24:04, 2021-07-19 03:24:46, -37,       32, E8:CC:18:A8:69:2A,
+

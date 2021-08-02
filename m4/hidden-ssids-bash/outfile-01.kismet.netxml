@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE detection-run SYSTEM "http://kismetwireless.net/kismet-3.1.0.dtd">
+
+<detection-run kismet-version="airodump-ng-1.0" start-time="Thu Jul 22 22:36:20 2021">
+
+	<wireless-network number="1" type="infrastructure" first-time="Thu Jul 22 22:36:20 2021" last-time="Thu Jul 22 22:39:09 2021">
+		<SSID first-time="Thu Jul 22 22:36:20 2021" last-time="Thu Jul 22 22:39:09 2021">
+			<type>Beacon</type>
+			<max-rate>130.000000</max-rate>
+			<packets>1471</packets>
+			<beaconrate>10</beaconrate>
+			<encryption>None</encryption>
+			<essid cloaked="false">The Hidden AP</essid>
+		</SSID>
+		<BSSID>32:07:4D:99:DD:9A</BSSID>
+		<manuf>Unknown</manuf>
+		<channel>2</channel>
+		<freqmhz>2417 2192</freqmhz>
+		<maxseenrate>130000</maxseenrate>
+		<carrier>IEEE 802.11b+</carrier>
+		<encoding>CCK</encoding>
+		<packets>
+			<LLC>591</LLC>
+			<data>591</data>
+			<crypt>0</crypt>
+			<total>2192</total>
+			<fragments>0</fragments>
+			<retries>0</retries>
+		</packets>
+		<datasize>0</datasize>
+		<wireless-client number="1" type="established" first-time="Thu Jul 22 22:36:35 2021" last-time="Thu Jul 22 22:37:46 2021">
+			<client-mac>60:83:34:1F:93:D5</client-mac>
+			<client-manuf>HUAWEI TECHNOLOGIES CO.,LTD</client-manuf>
+			<channel>2</channel>
+			<maxseenrate>1.000000</maxseenrate>
+			<carrier>IEEE 802.11b+</carrier>
+			<encoding>CCK</encoding>
+			<packets>
+				<LLC>0</LLC>
+				<data>0</data>
+				<crypt>0</crypt>
+				<total>688</total>
+				<fragments>0</fragments>
+				<retries>0</retries>
+			</packets>
+			<snr-info>
+				<last_signal_dbm>-27</last_signal_dbm>
+				<last_noise_dbm>0</last_noise_dbm>
+				<last_signal_rssi>-27</last_signal_rssi>
+				<last_noise_rssi>0</last_noise_rssi>
+				<min_signal_dbm>-27</min_signal_dbm>
+				<min_noise_dbm>0</min_noise_dbm>
+				<min_signal_rssi>1024</min_signal_rssi>
+				<min_noise_rssi>1024</min_noise_rssi>
+				<max_signal_dbm>-27</max_signal_dbm>
+				<max_noise_dbm>0</max_noise_dbm>
+				<max_signal_rssi>-27</max_signal_rssi>
+				<max_noise_rssi>0</max_noise_rssi>
+			</snr-info>
+		</wireless-client>
+		<snr-info>
+			<last_signal_dbm>-25</last_signal_dbm>
+			<last_noise_dbm>0</last_noise_dbm>
+			<last_signal_rssi>-25</last_signal_rssi>
+			<last_noise_rssi>0</last_noise_rssi>
+			<min_signal_dbm>-25</min_signal_dbm>
+			<min_noise_dbm>0</min_noise_dbm>
+			<min_signal_rssi>1024</min_signal_rssi>
+			<min_noise_rssi>1024</min_noise_rssi>
+			<max_signal_dbm>9</max_signal_dbm>
+			<max_noise_dbm>0</max_noise_dbm>
+			<max_signal_rssi>9</max_signal_rssi>
+			<max_noise_rssi>0</max_noise_rssi>
+		</snr-info>
+		<bsstimestamp>504525192</bsstimestamp>
+		<cdp-device></cdp-device>
+		<cdp-portid></cdp-portid>
+	</wireless-network>
+</detection-run>

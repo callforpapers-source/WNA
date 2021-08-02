@@ -1,0 +1,9 @@
+interface=wlan0
+ssid=WiFi
+channel=5
+macaddr_acl=0
+ignore_broadcast_ssid=0
+ieee80211n=1
+hw_mode=g
+device_name=RTL8723BE
+manufacturer=Realtek
